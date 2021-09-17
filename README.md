@@ -12,6 +12,8 @@ Tenho 19 anos e atualmente estou no segundo ano de ciências da computação na 
   
   ##
   
+### Tecnologias de estudo e uso: 
+  
 <div>
   <ul>
     <li>
