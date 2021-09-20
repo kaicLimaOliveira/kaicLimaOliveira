@@ -29,9 +29,6 @@ Tenho 19 anos e atualmente estou no segundo ano de ciências da computação na 
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
     </li>
     <li>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-1C1C1C?style=for-the-badge&logo=java&logoColor=red" target="_blank"></a>
-    </li>
-    <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=FFD700" target="_blank"></a>
     </li>
   </ul>
