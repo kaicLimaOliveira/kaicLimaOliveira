@@ -12,7 +12,7 @@ Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na 
   
   ##
   
-### Tecnologias de estudo e uso: 
+### Tecnologias que uso: 
   
 <div>
   <ul>
@@ -21,12 +21,10 @@ Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na 
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank"></a>
     </li>
     <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=FFFF00" target="_blank"></a>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-1C1C1C?style=for-the-badge&logo=typescript&logoColor=007ACC" target="_blank"></a>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-1C1C1C?style=for-the-badge&logo=java&logoColor=B22222" target="_blank"></a>
     </li>
     <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=FFD700" target="_blank"></a>
@@ -34,9 +32,22 @@ Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na 
   </ul>
   
 </div>
-
+  
+### Tecnologias que estou estudando:
+<div>
+  <ul>  
+    <li>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-1C1C1C?style=for-the-badge&logo=typescript&logoColor=007ACC" target="_blank"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank"> </a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
+    </li>
+  </ul>
+ </div>
+  
   ##
-   
+ 
+### Rede de Comunicação:
   <div style="display: inline_block">
     <a href="https://www.facebook.com/kaic.oliveira.587" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/kaic.lo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
