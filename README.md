@@ -1,7 +1,7 @@
 # Oi, meu nome é Kaic de Lima Oliveira
 
 ### Sobre mim:
-Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na UNIP/Bauru. Tenho estudado atualmente tecnologias front-end como ReactJs e Typescript.
+Tenho 20 anos e atualmente estou no terceiro ano de ciências da computação na UNIP/Bauru. Tenho estudado atualmente tecnologias front-end como ReactJs e Typescript. Atualmente trabalhando como desenvolvedor Web.
 
 ### Status:
 <div>
@@ -46,8 +46,11 @@ Tenho 20 anos e atualmente estou no segundo ano de ciências da computação na 
     </li>
       <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank"> 
+      </a>  
     </li>
-    </a>
+    <li>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
+    </li>
     </li>
   </ul>
  </div>
