@@ -1,7 +1,7 @@
 # Oi, meu nome é Kaic de Lima Oliveira
 
 ### Sobre mim:
-Tenho 20 anos e atualmente estou no terceiro ano de ciências da computação na UNIP/Bauru. Tenho estudado atualmente tecnologias front-end como ReactJs e Typescript. Atualmente trabalhando como desenvolvedor Web.
+Tenho 20 anos e atualmente estou no terceiro ano de ciências da computação na UNIP/Bauru. Tenho estudado atualmente tecnologias front-end como ReactJs e Flask e Python de back-end. Atualmente trabalhando como desenvolvedor Web.
 
 ### Status:
 <div>
