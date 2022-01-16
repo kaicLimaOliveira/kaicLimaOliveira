@@ -12,7 +12,7 @@ Tenho 20 anos e atualmente estou no terceiro ano de ciências da computação na
   
   ##
   
-### Tecnologias que uso: 
+### Tecnologias que eu utilizo: 
   
 <div>
   <ul>
@@ -29,11 +29,23 @@ Tenho 20 anos e atualmente estou no terceiro ano de ciências da computação na
     <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=FFD700" target="_blank"></a>
     </li>
+    <li>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" target="_blank"></a>
+    </li>
+     <li>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Pip-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></a>
+    </li>
+     <li>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+    </li>
   </ul>
   
 </div>
   
-### Tecnologias que estou estudando:
+### Tecnologias de estudo:
 <div>
   <ul>  
     <li>
