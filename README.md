@@ -42,6 +42,10 @@
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" target="_blank"></a>
     </li>
     <li>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" target="_blank"></a>
+    </li>
+    <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-1C1C1C?style=for-the-badge&logo=java&logoColor=B22222" target="_blank"></a>
     </li>
     <li>
@@ -67,11 +71,9 @@
 <div>
   <ul>  
     <li>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-1C1C1C?style=for-the-badge&logo=typescript&logoColor=007ACC" target="_blank"></a>
-      <li>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" target="_blank"></a>
     </li>
       <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank"> 
