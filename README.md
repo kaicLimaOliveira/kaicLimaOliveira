@@ -50,9 +50,10 @@
     </li>
     <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=FFD700" target="_blank"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
     </li>
     <li>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" target="_blank"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" target="_blank"></a>
     </li>
     <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
@@ -74,13 +75,11 @@
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-1C1C1C?style=for-the-badge&logo=typescript&logoColor=007ACC" target="_blank"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=Electron&logoColor=white"></a>
     </li>
       <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank"> 
       </a>  
-    </li>
-    <li>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
     </li>
     </li>
   </ul>
