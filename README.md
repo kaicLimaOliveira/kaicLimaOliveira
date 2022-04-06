@@ -7,7 +7,7 @@
       💻 Trabalhando com desenvolvimento web.
     </li>
     <li>
-      📚 Terceiro ano de ciências da computação.
+      📚 Terceiro ano de ciência da computação.
     </li>
     <li>
       👨🏻‍💻 Aprendendo como ser um fullstack.
@@ -41,6 +41,7 @@
     <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=FFFF00" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" target="_blank"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" target="_blank"></a>
     </li>
     <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -73,13 +74,13 @@
 <div>
   <ul>  
     <li>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-1C1C1C?style=for-the-badge&logo=typescript&logoColor=007ACC" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=Electron&logoColor=white"></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"></a>
     </li>
       <li>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank"> 
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank"> 
       </a>  
     </li>
     </li>
