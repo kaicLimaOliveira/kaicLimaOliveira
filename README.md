@@ -81,6 +81,7 @@
     </li>
       <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank"> 
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" target="_blank"> 
       </a>  
     </li>
     </li>
