@@ -7,7 +7,7 @@
       💻 Trabalhando com desenvolvimento web.
     </li>
     <li>
-      📚 Terceiro ano de ciência da computação.
+      📚 6 semestre de ciência da computação.
     </li>
     <li>
       👨🏻‍💻 Aprendendo como ser um fullstack.
