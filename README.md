@@ -83,6 +83,8 @@
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=Electron&logoColor=white"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"></a>
     </li>
+     <li>
+     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></a>
     </li>
   </ul>
  </div>
