@@ -54,6 +54,7 @@
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-1C1C1C?style=for-the-badge&logo=java&logoColor=B22222" target="_blank"></a>
     </li>
     <li>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=FFD700" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
     </li>
