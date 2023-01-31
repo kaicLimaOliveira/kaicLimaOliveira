@@ -1,22 +1,13 @@
 # Oi, meu nome é Kaic de Lima Oliveira
-
-### Sobre mim:
-<div>
-  <ul>
-    <li>
-      💻 Trabalhando com desenvolvimento web.
-    </li>
-    <li>
-      📚 6 semestre de ciência da computação.
-    </li>
-    <li>
-      👨🏻‍💻 Aprendendo como ser um fullstack.
-    </li>
-    <li>
-      ⚙ Estudando front e back.
-    </li>
-  </ul>
+<div style="display: inline_block">
+    <a href="https://instagram.com/kaic.lo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/kaic-de-lima-oliveira-3633041a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+  
+# Sobre mim:
+<div>
+  Tenho 21 anos, estou no ultimo ano da faculdade de ciências da computação. Trabalhando como Web Developer com Vuejs, Django e Postgres. Sou apaixonado em Javascript e pretendo me especializar.
+</div>
 
 ### Status:
 <div>
@@ -91,11 +82,4 @@
  </div>
   
   ##
- 
-### Rede de Comunicação:
-  <div style="display: inline_block">
-    <a href="https://www.facebook.com/kaic.oliveira.587" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/kaic.lo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/kaic-de-lima-oliveira-3633041a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://github.com/kaicLimaOliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  </div>
+  
