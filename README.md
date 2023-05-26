@@ -6,7 +6,7 @@
   
 # Sobre mim:
 <div>
-  Tenho 21 anos, estou no ultimo ano da faculdade de ciências da computação. Trabalhando como Web Developer com Vuejs, Django e Postgres. Sou apaixonado em Javascript e pretendo me especializar.
+  Tenho 21 anos, estou no ultimo ano da faculdade de ciências da computação. Trabalhando como Web Developer com Vuejs, Typescript, Django e Postgres. Sou apaixonado em Javascript e sempre estou buscando me especializar na tecnologia.
 </div>
 
 ### Status:
