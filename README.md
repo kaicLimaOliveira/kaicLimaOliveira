@@ -1,5 +1,6 @@
 # Oi, meu nome é Kaic de Lima Oliveira
 <div style="display: inline_block">
+    <a href="https://portfolio-kusv-by4zjr0cd-kaiclimaoliveiras-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/kaic.lo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/kaic-de-lima-oliveira-3633041a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
