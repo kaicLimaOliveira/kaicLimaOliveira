@@ -6,7 +6,7 @@
   
 # Sobre mim:
 <div>
-  Tenho 21 anos, estou no ultimo ano da faculdade de ciências da computação. Trabalhando como Web Developer com Vuejs, Typescript, Django e Postgres. Sou apaixonado em Javascript e sempre estou buscando me especializar na tecnologia.
+  Tenho 21 anos, estou no ultimo ano da faculdade de ciências da computação. Trabalhando como Web Developer a 2 anos e meio com Vuejs, Typescript, Django e Postgres. Sou apaixonado em Javascript e sempre estou buscando me especializar na tecnologia.
 </div>
 
 ### Status:
@@ -43,18 +43,12 @@
       </a>  
     </li>
     <li>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-1C1C1C?style=for-the-badge&logo=java&logoColor=B22222" target="_blank"></a>
-    </li>
-    <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=FFD700" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
     </li>
     <li>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" target="_blank"></a>
-    </li>
-    <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+        <a href="#" target="_blank"><img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" target="_blank"></a>
     </li>
      <li>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
