@@ -7,7 +7,7 @@
   
 # Sobre mim:
 <div>
-  Tenho 22 anos, estou no ultimo ano da faculdade de ciências da computação. Trabalhando como Web Developer a 2 anos e meio com Vuejs, Typescript, Django e Postgres. Sou apaixonado em Javascript e sempre estou buscando me especializar na tecnologia.
+  Tenho 22 anos, sou Bacharel em Ciência da Computação pela Universidade Anhembi Morumbi. Trabalho como Web Developer a 2 anos e meio com Vuejs, Typescript, Django, Postgres e recentemente venho migrando para o .Net. Sou apaixonado em Javascript e sempre estou buscando me especializar na tecnologia.
 </div>
 
 ### Status:
